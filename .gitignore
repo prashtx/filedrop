@@ -1,0 +1,3 @@
+node_modules
+setenv*.sh
+herokuconfig.sh

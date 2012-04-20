@@ -1,0 +1,13 @@
+{
+    "name": "filedrop"
+  , "version": "0.0.1"
+  , "private": true
+  , "engines" : { "node" : "0.6.x" }
+  , "dependencies": {
+      "express": "2.5.8"
+    , "request" : "2.9.x"
+    , "hat" : ">=0.0.3"
+    , "crack" : ">=0.0.2"
+    , "knox" : "https://github.com/slaskis/knox/tarball/master"
+  }
+}
